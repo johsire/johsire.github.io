@@ -176,11 +176,24 @@ img {
  * Downward Facing Arrow Styles
  */
 .down_facing_arrow {
-  font-size: 55px;
+  font-size: 50px;
   position: relative;
-  right: 260px;
+  right: 220px;
 }
 
+.down_facing_arrow_two {
+  font-size: 50px;
+  position: relative;
+  top: 50px;
+  right: 20px;
+}
+
+.up_facing_arrow {
+  font-size: 50px;
+  position: relative;
+  left: 370px;
+  bottom: 40px;
+}
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
